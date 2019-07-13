@@ -19,6 +19,6 @@
   "homepage": "https://github.com/SpiderRam/scorekeeper#readme",
   "dependencies": {
     "express": "^4.16.4",
-    "sequelize": "^5.8.6"
+    "sequelize": "^5.10.0"
   }
 }
